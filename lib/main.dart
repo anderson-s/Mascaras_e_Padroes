@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'home.dart';
+import 'package:mascaras_e_padroes/mascaras.dart';
 
 void main(List<String> args) {
   runApp(
